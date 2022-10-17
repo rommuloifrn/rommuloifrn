@@ -1,5 +1,5 @@
 ## Hi.
-A brazillian system development student interested in open source, linux and back-end.
+I am a brazillian system development student interested in open source, linux and back-end.
 
 <!--
 **rommuloifrn/rommuloifrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
