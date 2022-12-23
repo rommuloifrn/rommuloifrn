@@ -3,12 +3,12 @@ I am a brazillian software development student interested in open source, linux 
 
 
 
-<a href="https://docs.djangoproject.com/">
+<a href="#">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="border-radius: 0.5em;">
 </a>
 
-<a href="https://ubuntu-mate.org/">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 0.5em;">
+<a href="#">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="border-radius: 0.5em;">
 </a>
 
 <a href="https://discordapp.com/users/ron#8729">
