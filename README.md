@@ -1,11 +1,7 @@
 ## Hi.
 I am a brazillian software development student interested in open source, linux and back-end.
-<style>
-  img {
-  border-radius: 0.375rem;
-  }
-</style>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 0.375rem;">
 <!--
 **rommuloifrn/rommuloifrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
