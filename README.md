@@ -11,7 +11,7 @@ I am a brazillian software development student interested in open source, linux 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="border-radius: 0.5em;">
 </a>
 
-<a href="https://discordapp.com/users/ron#8729">
+<a href="https://discord.com/users/204698698242981888">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 0.5em;">
 </a>
 <!--
