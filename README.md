@@ -1,6 +1,8 @@
 ## Hi.
 I am a brazillian software development student interested in open source, linux and back-end.
 
+
+
 <a href="https://docs.djangoproject.com/">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="border-radius: 0.5em;">
 </a>
@@ -10,7 +12,7 @@ I am a brazillian software development student interested in open source, linux 
 </a>
 
 <a href="https://discordapp.com/users/ron#8729">
-  <img src="https://badgen.net/badge/icon/discord?icon=discord&label" style="border-radius: 0.5em;">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 0.5em;">
 </a>
 <!--
 **rommuloifrn/rommuloifrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
