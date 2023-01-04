@@ -1,5 +1,5 @@
 ## Hi.
-I am a brazillian software development student interested in open source, linux and back-end.
+I am a software development brazillian student interested in open source, linux and back-end.
 
 
 
