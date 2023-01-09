@@ -16,12 +16,12 @@ I am a software development brazillian student interested in open source, linux 
 </a>
 
 <br>
-
+Contact me:
 <a href="mailto:romulo.s@escolar.ifrn.edu.br">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
 </a>
 <a href="https://discord.com/users/204698698242981888">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25">
 </a>
 <!--
 **rommuloifrn/rommuloifrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
