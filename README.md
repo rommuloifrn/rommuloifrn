@@ -1,8 +1,7 @@
 ## Hi.
-I am a software development brazillian student interested in open source, linux and back-end.
+I am a software development brazillian student interested in back end, AI and linux.
 
-
-
+These are my current skills:
 <a href="#">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </a>
@@ -15,8 +14,9 @@ I am a software development brazillian student interested in open source, linux 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </a>
 
+
+And if you want to contact me:
 <br>
-Contact me:
 <a href="mailto:romulo.s@escolar.ifrn.edu.br">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
 </a>
