@@ -12,7 +12,7 @@ I am a software development brazillian student interested in open source, linux 
 </a>
 
 <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="border-radius: 0.5em;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="10em">
 </a>
 
 <br>
