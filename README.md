@@ -8,7 +8,7 @@ I am a software development brazillian student interested in open source, linux 
 </a>
 
 <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120">
 </a>
 
 <a href="#">
