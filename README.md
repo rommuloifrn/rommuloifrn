@@ -4,15 +4,15 @@ I am a software development brazillian student interested in open source, linux 
 
 
 <a href="#">
-  <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" width="100">
+  <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" height="30">
 </a>
 
 <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30">
 </a>
 
 <a href="#">
-  <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" width="75">
+  <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" height="30">
 </a>
 
 <br>
