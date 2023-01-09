@@ -1,6 +1,5 @@
 ## Hi.
 I am a software development brazillian student interested in back end, AI and linux.
-
 <br>
 <a href="#">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
