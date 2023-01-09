@@ -2,7 +2,7 @@
 I am a software development brazillian student interested in back end, AI and linux.
 
 These are my current skills:
-<br><br>
+<br>
 <a href="#">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </a>
@@ -12,7 +12,6 @@ These are my current skills:
 <a href="#">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </a>
-
 
 And if you want to contact me:
 <br>
