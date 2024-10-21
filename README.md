@@ -1,6 +1,6 @@
 ## 👋 Hi, stranger!
 
-I am a fullstack developer interested in competitive programming and software modeling.
+I am a fullstack developer and i think anything you can nerd on can be fun.
 
 ### 🛠️ Current toolset: 
 
