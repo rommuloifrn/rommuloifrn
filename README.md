@@ -2,8 +2,6 @@
 
 I am a fullstack developer and i think anything you can nerd on can be fun.
 
-### 🛠️ Current toolset: 
-
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
