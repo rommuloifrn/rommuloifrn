@@ -1,7 +1,4 @@
 <p>I think anything you can nerd on can be fun.</p>
-<img height="100" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUzNjE4MDMsIm5iZiI6MTc1NTM2MTUwMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE2VDE2MjUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjZmViZTI4NzZkOWQ4YTFmZGRlMWJjYjg4ODNjMzY5NjVkODhiMDFmNTM1ZDdmMmNmOWRlMGQyNTA4MTg3NmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4xHBU1kNDj9BZrJF9lW2G3_26n_dfKUtbcZPxYWD1RQ">
-
-![](https://github-readme-stats.vercel.app/api?username=rommuloifrn&theme=dracula)
 
 <a href="https://rommuloifrn.github.io/" target="_blank">
 💼 Portfolio
